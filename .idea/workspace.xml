@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42bf7f32-d8ab-4524-88f3-2d089ecb646f" name="Changes" comment="generic types">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lambda/generic/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lambda/generic/Process.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/generic/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/generic/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/generic/SDAList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/generic/SDAList.java" afterDir="false" />
+    <list default="true" id="42bf7f32-d8ab-4524-88f3-2d089ecb646f" name="Changes" comment="update 20:17">
+      <change afterPath="$PROJECT_DIR$/src/main/java/collections/streams/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collections/streams/Training.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/collections/streams/Exercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/streams/Exercises.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/collections/streams/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/streams/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,13 +31,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GithubProjectSettings">
-    <option name="branchProtectionPatterns">
-      <list>
-        <option value="master" />
-      </list>
-    </option>
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/main/resources/input" root0="FORCE_HIGHLIGHTING" />
@@ -62,7 +55,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.lambda.generic.Main">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="LambdaExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lambda.LambdaExample" />
       <module name="java-zaawansowana" />
@@ -342,7 +335,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="develop" />
+                        <option value="z_zajec/develop" />
                       </list>
                     </value>
                   </entry>
