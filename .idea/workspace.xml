@@ -4,8 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42bf7f32-d8ab-4524-88f3-2d089ecb646f" name="Changes" comment="Update po 19.01">
+    <list default="true" id="42bf7f32-d8ab-4524-88f3-2d089ecb646f" name="Changes" comment="Workspace updated">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lecture/collections/streams/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lecture/collections/streams/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lecture/lambda/LambdaExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lecture/lambda/LambdaExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lecture/lambda/generic/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lecture/lambda/generic/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/showroom/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/showroom/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/showroom/ShowroomApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/showroom/ShowroomApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/showroom/model/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/showroom/model/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/showroom/model/Motorbike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/showroom/model/Motorbike.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/showroom/model/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/showroom/model/Vehicle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +31,32 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="z_zajec/develop" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="master" />
@@ -53,6 +88,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/konra/IdeaProjects/java-zaawansowana-109-develop&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
@@ -61,17 +97,17 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="exceptions" />
       <recent name="" />
+      <recent name="exceptions" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.lecture.lambda.generic.Main">
     <configuration name="LambdaExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambda.LambdaExample" />
+      <option name="MAIN_CLASS_NAME" value="lecture.lambda.LambdaExample" />
       <module name="java-zaawansowana" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lambda.*" />
+          <option name="PATTERN" value="lecture.lambda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,11 +116,11 @@
       </method>
     </configuration>
     <configuration name="ListExercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.list.ListExercises" />
+      <option name="MAIN_CLASS_NAME" value="lecture.collections.list.ListExercises" />
       <module name="java-zaawansowana" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collections.list.*" />
+          <option name="PATTERN" value="lecture.collections.list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,11 +129,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generic.Main" />
+      <option name="MAIN_CLASS_NAME" value="lecture.generic.Main" />
       <module name="java-zaawansowana" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="generic.*" />
+          <option name="PATTERN" value="lecture.generic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,11 +142,11 @@
       </method>
     </configuration>
     <configuration name="MapExercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.map.MapExercises" />
+      <option name="MAIN_CLASS_NAME" value="lecture.collections.map.MapExercises" />
       <module name="java-zaawansowana" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collections.map.*" />
+          <option name="PATTERN" value="lecture.collections.map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +154,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lambda.generic.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambda.generic.Main" />
+    <configuration name="lecture.lambda.generic.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture.lambda.generic.Main" />
       <module name="java-zaawansowana" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lambda.generic.*" />
+          <option name="PATTERN" value="lecture.lambda.generic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,8 +194,8 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Application.lecture.lambda.generic.Main" />
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.lambda.generic.Main" />
       <item itemvalue="Application.LambdaExample" />
       <item itemvalue="Application.ListExercises" />
       <item itemvalue="Application.MapExercises" />
@@ -167,8 +203,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.lambda.generic.Main" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.lecture.lambda.generic.Main" />
         <item itemvalue="Application.LambdaExample" />
         <item itemvalue="Application.ListExercises" />
         <item itemvalue="Application.MapExercises" />
@@ -338,7 +374,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674073011125</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Workspace updated">
+      <created>1675096359993</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1675096359993</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -377,23 +420,24 @@
     <MESSAGE value="lambda" />
     <MESSAGE value="generic types" />
     <MESSAGE value="Update po 18.01" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update po 18.01" />
+    <MESSAGE value="Workspace updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Workspace updated" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/collections/map/MapExercises.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/lecture/map/MapExercises.java</url>
           <line>34</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/collections/map/MapExercises.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/lecture/map/MapExercises.java</url>
           <line>37</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/collections/map/MapExercises.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/lecture/map/MapExercises.java</url>
           <line>42</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
